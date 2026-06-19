@@ -6,20 +6,6 @@ O projeto foi desenvolvido com o objetivo de estudar o desenvolvimento de extens
 
 ---
 
-## 📸 Demonstração
-
-Adicione aqui capturas de tela da extensão.
-
-### Dashboard
-
-![Dashboard](screenshots/dashboard.png)
-
-### Ranking de Sites
-
-![Ranking](screenshots/ranking.png)
-
----
-
 ## ✨ Funcionalidades
 
 * Monitoramento de sites visitados
